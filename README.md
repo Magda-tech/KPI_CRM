@@ -11,6 +11,9 @@ Ganhos – negócios fechados com sucesso (status "ganho").
 
 Esses indicadores são cruzados com informações de divisão por loja (shopping), permitindo por localidade e ao longo do tempo ( AnoMes).
 
+## Autora: Magda Monteiro
+Data:19/05/2025
+
 ## Estrutura do Projeto
 
 - `notebooks/teste_2_código.ipynb`: notebook principal com o código da análise
