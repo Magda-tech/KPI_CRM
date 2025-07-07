@@ -16,7 +16,7 @@ Data:19/05/2025
 
 ## Estrutura do Projeto
 
-- `notebooks/teste_2_código.ipynb`: notebook principal com o código da análise
+- `código.ipynb`: notebook principal com o código da análise
 - `Planilha de Case para KPIs.xlsx:`:  dados de entrada
 - `relatório KPI.pdf`: apresentação com os gráficos finais
 
