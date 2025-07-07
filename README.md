@@ -17,8 +17,6 @@ Data:19/05/2025
 ## Estrutura do Projeto
 
 - `notebooks/teste_2_código.ipynb`: notebook principal com o código da análise
-- `dados/entrada.xlsx`: https://docs.google.com/spreadsheets/d/1rOhtRVzfIWpUWYPmAUXlEVQ5IfhhNTUt/edit?usp=sharing&ouid=106975481899337799702&rtpof=true&sd=true
-- `resultados/graficos_final.pptx`: apresentação com os gráficos finais
+- `Planilha de Case para KPIs.xlsx:`:  dados de entrada
+- `relatório KPI.pdf`: apresentação com os gráficos finais
 
-## Acessar Visualização no Google Drive
-🔗 https://drive.google.com/file/d/12I6eq8siQXt7nMQ8-yr9FS-rkTAMceBd/view?usp=sharing
