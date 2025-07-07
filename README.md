@@ -20,11 +20,5 @@ Data:19/05/2025
 - `dados/entrada.xlsx`: https://docs.google.com/spreadsheets/d/1rOhtRVzfIWpUWYPmAUXlEVQ5IfhhNTUt/edit?usp=sharing&ouid=106975481899337799702&rtpof=true&sd=true
 - `resultados/graficos_final.pptx`: apresentação com os gráficos finais
 
-## Como executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Magda-tech/KPI_CRM.git
-
 ## Acessar Visualização no Google Drive
 🔗 https://drive.google.com/file/d/12I6eq8siQXt7nMQ8-yr9FS-rkTAMceBd/view?usp=sharing
